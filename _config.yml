@@ -21,8 +21,8 @@
 title: The Memeticist
 description: >- # this means to ignore newlines until "baseurl:"
   Blog abouts education, artificial intelligence, philosophy, effective altruism, politics, psychology, economics and stuff...
-baseurl: /TheMemeticist # the subpath of your site, e.g. /blog
-url: http://samuel500.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+url: http://thememeticist.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samuelknoche
 github_username:  samuel500
 
