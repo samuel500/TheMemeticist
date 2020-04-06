@@ -20,7 +20,7 @@
 
 title: The Memeticist
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog abouts education, artificial intelligence, philosophy, effective altruism, politics, psychology, economics and stuff...
+  A blog about memes worth spreading 
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://thememeticist.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samuelknoche
