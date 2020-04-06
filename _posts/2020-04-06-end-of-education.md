@@ -7,7 +7,7 @@ categories: education
 comments: true
 ---
 
-Me reading [*The End of Education*](https://www.amazon.com/End-Education-Redefining-Value-School/dp/0679750312), by Neil Postman, was a bit of an accident. It was published in 1996 and its main topic is public education, K-12 specifically. So even though the topic of education does interest me a great deal, I don’t think I would have picked it up weren’t it for the fact that I stumbled on it in my mother’s library, and that the title seemed intriguing. 
+Me reading [*The End of Education*](https://www.amazon.com/End-Education-Redefining-Value-School/dp/0679750312), by Neil Postman, was a bit of an accident. It was published in 1996 and its main topic is public education, K-12 specifically. So even though the topic of education does interest me a great deal, I don’t think I would have picked it up weren’t it for the fact that I stumbled on it on my mother’s bookshelf, and that the title seemed intriguing. 
 
 It sets up the question of what the *purpose* of education is, and tries to provide an answer. I found part II of the book, which focuses on possible answers, a little weak. I think that the narratives presented are too vague, outdated or incomplete. The first part however, which describes the problem, is excellent. Here are a few passages from the book that carry some of the best ideas:
 
