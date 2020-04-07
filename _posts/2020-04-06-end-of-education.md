@@ -21,7 +21,7 @@ It sets up the question of what the *purpose* of education is, and tries to prov
 ### 1. The Necessity of Gods
 
 > For school to make sense, the young, their parent, and their teachers must have a god to serve, or, even better, several gods. If they have none, school is pointless. Nietzsche’s famous aphorism is relevant here: “He who has a *why* to live can bear with almost any *how*.” This applies as much to learning as to living.
-	<br/>To put it simply, there is no surer way to bring an end to schooling than for it to have an no end.
+	<br/>To put it simply, there is no surer way to bring an end to schooling than for it to have no end.
 
 > By a god to serve, I do not necessarily mean *the* God.
 
