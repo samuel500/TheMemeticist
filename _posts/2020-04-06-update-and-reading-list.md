@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-I currently have a piece in the pipeline that follows up on my previous post. In it I offer a vision of what higher education could be like, I describe what I have been doing since dropping out of college, and I announce a project that would put my ideas into practice. However, the coronavirus situation has put my plans on hold for now. So you will probably get to read that piece once the circumstances are more auspicious to a project that involves getting people physically together.
+I currently have a piece in the pipeline that follows up on my [previous post](https://thememeticist.com/education/2020/02/05/what-i-learned-dropping-out-of-high-school.html). In it I offer a vision of what higher education could be like, I describe what I have been doing since dropping out of college, and I announce a project that would put my ideas into practice. However, the coronavirus situation has put my plans on hold for now. So you will probably get to read that piece once the circumstances are more auspicious to a project that involves getting people physically together.
 	
 Though I might still reconsider, and post it before any of my ideas can feasably, or advisably, be put into practice. If there is anyone out there who is particularly curious about what I’ve been up to, or what I’m planning, you can DM me on Twitter, and I’ll share my draft with you. 
 
