@@ -53,7 +53,9 @@ Joseph Henrich, [The Secret of Our Success](https://www.amazon.com/Secret-Our-Su
 
 Nicholas Bloom et al, [Are Ideas Getting Harder to Find?](https://web.stanford.edu/~chadj/IdeaPF.pdf)
 
-Pierre Azoulay, [Incentives and Creativity: Evidence from the Academic Life Sciences](https://www.nber.org/papers/w15466.pdf)
+Pierre Azoulay et al, [Incentives and Creativity: Evidence from the Academic Life Sciences](https://www.nber.org/papers/w15466.pdf)
+
+Jay Bhattacharya et al, [Stagnation and Scientific Incentives](https://www.nber.org/papers/w26752.pdf)
 
 Dominic Cummings, [Some thoughts on education and political priorities](https://dominiccummings.files.wordpress.com/2013/11/20130825-some-thoughts-on-education-and-political-priorities-version-2-final.pdf)
 
