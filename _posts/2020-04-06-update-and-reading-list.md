@@ -75,6 +75,8 @@ Francis Jervis, [A Progress Studies Manifesto](https://www.progressstudies.org/2
 
 Archbridge Institute, [Reflections on Studying Human Flourishing and Progress: Shared Challenges and Shared Potential](https://medium.com/@ArchbridgeInst/reflections-on-studying-human-flourishing-and-progress-shared-challenges-and-shared-potential-45f277572f30)
 
+James Fallows, [How the World Works](https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/)
+
 <br/>
 Many of these are taken from Patrick Collison’s site, [here](https://patrickcollison.com/progress), [here](https://patrickcollison.com/growth) and [here](https://patrickcollison.com/fast).
 
