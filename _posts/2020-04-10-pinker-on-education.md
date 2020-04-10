@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Steven Pinker Can Become Really Rich"
+title:  "How Steven Pinker Could Become Really Rich"
 date:   2020-04-10 10:53:21 +0000
 author: Samuel Knoche
 categories: education
