@@ -43,6 +43,8 @@ Eliezer Yudkowsky, [Inadequate Equilibria](https://www.lesswrong.com/s/oLGCcbnva
 
 Robert J. Gordon, [The Rise and Fall of American Growth](https://www.amazon.com/Rise-Fall-American-Growth-Standard/dp/B01ITPUXEU/)
 
+Jon Gertner, [The Idea Factory](https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797)
+
 I might also revisit these two:
 
 David Deutsch, [The Beginning of Infinity](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/B005HTYBCM/)
@@ -78,6 +80,8 @@ Francis Jervis, [A Progress Studies Manifesto](https://www.progressstudies.org/2
 Archbridge Institute, [Reflections on Studying Human Flourishing and Progress: Shared Challenges and Shared Potential](https://medium.com/@ArchbridgeInst/reflections-on-studying-human-flourishing-and-progress-shared-challenges-and-shared-potential-45f277572f30)
 
 James Fallows, [How the World Works](https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/)
+
+Richard Hamming, [You and Your Research](http://www.paulgraham.com/hamming.html)
 
 <br/>
 Many of these are taken from Patrick Collison’s site, [here](https://patrickcollison.com/progress), [here](https://patrickcollison.com/growth) and [here](https://patrickcollison.com/fast).
