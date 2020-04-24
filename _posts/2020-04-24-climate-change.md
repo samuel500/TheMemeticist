@@ -24,7 +24,7 @@ I looked on YouTube, and there seems to be no good videos explaining a carbon ta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CilVymuAM8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
-They are alright, but it could be explained much better. This from MRU is on cap and trade, not carbon tax, but it has clearer explanation of the economics involved:
+They are alright, but it could be explained much better. This from MRU is on cap and trade, not carbon tax, but it has a clearer explanation of the economics involved:
 <br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tUb3MDrgEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
