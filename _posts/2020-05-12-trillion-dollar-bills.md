@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trillion Dollar Bills on The Sidewalk"
+title:  "Trillion Dollar Bills on the Sidewalk"
 date:   2020-05-12 09:37:43 +0000
 author: Samuel Knoche
 categories: education
