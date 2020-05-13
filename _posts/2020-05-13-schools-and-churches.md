@@ -27,6 +27,6 @@ I'm not sure I fully endorse these paragraphs, but the school-church comparison 
 
 > Of course, educational institutions aren’t ready to admit how much they share with churches. These temples of secularism don’t want to admit they are about simple tasks such as motivating the slugs or acculturating people into the work habits and sociological expectations of the so-called educated class. 
 
-> We like to pretend our instructors teach as well as chess computers, but too often they don’t come close to that ideal. They are something far less noble, something that we are afraid to call by its real name, something quite ordinary: They are a mix of exemplars and nags and missionaries, packaged with a marketing model that stressed their nobility and a financial model that pays them pretty well and surrounds with administrators. 
+> We like to pretend our instructors teach as well as chess computers, but too often they don’t come close to that ideal. They are something far less noble, something that we are afraid to call by its real name, something quite ordinary: They are a mix of exemplars and nags and missionaries, packaged with a marketing model that stressed their nobility and a financial model that pays them pretty well and surrounds them with administrators. 
 
 Neil Postman also [identified a connection](https://thememeticist.com/education/2020/04/06/end-of-education.html) beween religion and education.
