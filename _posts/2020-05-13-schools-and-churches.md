@@ -30,3 +30,8 @@ I'm not sure I fully endorse these paragraphs, but the school-church comparison 
 > We like to pretend our instructors teach as well as chess computers, but too often they don’t come close to that ideal. They are something far less noble, something that we are afraid to call by its real name, something quite ordinary: They are a mix of exemplars and nags and missionaries, packaged with a marketing model that stressed their nobility and a financial model that pays them pretty well and surrounds them with administrators. 
 
 Neil Postman also [identified a connection](https://thememeticist.com/education/2020/04/06/end-of-education.html) beween religion and education.
+
+
+Finally, Peter Thiel is also fond of the analogy. He often compares the state of the education system today to the state of the Catholic Church 500 years ago:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SO_00POR-Po?start=2037" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
