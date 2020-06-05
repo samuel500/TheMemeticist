@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello. Welcome to The Memeticist, a blog by Samuel Knoche. Content on here will probably be about education, artificial intelligence, philosophy, effective altruism, politics, psychology or economics. But I don't promise anything. 
+Hello. Welcome to The Memeticist. This blog is my humble attempt to contribute to the cultural evolution of humanity. Topics may include education, artificial intelligence, philosophy, effective altruism, politics, psychology, economics...
 
 You can follow me on [Twitter](https://twitter.com/SamuelKnoche).
 
