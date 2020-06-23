@@ -3,7 +3,7 @@ layout: post
 title:  "Patrick Collison on Effective Altruism"
 date:   2020-06-23 09:37:43 +0000
 author: Samuel Knoche
-categories: education
+categories: ea
 comments: true
 ---
 
