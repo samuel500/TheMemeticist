@@ -9,7 +9,7 @@ comments: true
 
 Me reading [*The End of Education*](https://www.amazon.com/End-Education-Redefining-Value-School/dp/0679750312), by Neil Postman, was a bit of an accident. It was published in 1996 and its main topic is public education, K-12 specifically. So even though the topic of education does interest me a great deal, I don’t think I would have picked it up weren’t it for the fact that I stumbled on it on my mother’s bookshelf, and that the title seemed intriguing. 
 
-It sets up the question of what the *purpose* of education is, and tries to provide an answer. I found part II of the book, which focuses on possible answers, a little weak. I think that the narratives presented are too vague, outdated or incomplete. The first part however, which describes the problem, is excellent. Here are a few passages from the book that carry some of the best ideas:
+It sets up the question of what the *purpose* of education is, and tries to provide an answer. I found part II of the book, which focuses on possible answers, a little weak. I think that the narratives presented are too vague, outdated or incomplete. The first part, however, which describes the problem, is excellent. Here are a few passages from the book that carry some of the best ideas:
 
 ### Preface
 
@@ -35,7 +35,7 @@ It sets up the question of what the *purpose* of education is, and tries to prov
 
 > So far, America’s answer has largely been, Believe in a market economy, which is not much of a story, not much of an answer. The problem is that America’s better gods have been badly wounded. As America has moved towards the status of an empire […], its great story of liberal democracy has lost much of its luster. Of Tocqueville’s “civic participation,” there is less in America than in any other industrialized nation.
 
-> Meanwhile, the narrative of the great melting-pot has also sufferend as many insults as an imperfect god can bear. For some , for example, Koreans, Chinese, and Russians, it has worked tolerable well, but too many others have been blocked from sharing in the fullness of the American promise because of their race or native language.
+> Meanwhile, the narrative of the great melting-pot has also suffered as many insults as an imperfect god can bear. For some, for example, Koreans, Chinese, and Russians, it has worked tolerably well, but too many others have been blocked from sharing in the fullness of the American promise because of their race or native language.
 
 > As for the rigorous tale of the blessedness of Hard Work, too many Americans no longer believe in it. The great school of the Higher Learning, television, teaches them that a dream deferred is a dream forever denied – which is to say, no dream at all; that they are, in fact, entitled to the fruits of technology’s largesse; and that the god of Consumership confers its graciousness more freely than can any god of Labor.
 
@@ -48,7 +48,7 @@ Indeed, when the student shares the reason for the enterprise, learning becomes 
 
 > The story goes on to preach that America is not so much a culture as it is an economy, and that the vitality of a nation’s economy rests on high standards of achievement and rigorous discipline in schools. There is little evidence (that is to say, none) that the productivity of a nation’s economy is related to the quality of its schooling.
 
-Bryan Caplan makes a similar argument. Because of credentialling, people spending more time in school do end up earning more, however this does not necessarily translate in better economic outcomes for the country as a whole. 
+Bryan Caplan makes a similar argument. Because of credentialing, people spending more time in school do end up earning more. However this does not necessarily translate in better economic outcomes for the country as a whole. 
 
 > One need hardly add that the story of the god of Economic Utility is rarely believed by students and certainly has almost no power to inspire them.
 
@@ -65,15 +65,15 @@ Bryan Caplan makes a similar argument. Because of credentialling, people spendin
 
 > Schools are not now and have never been chiefly about getting information to children.
 
-If that was the case, the internet would have made schools obsolete a long time ago.
+If that were the case, the internet would have made schools obsolete a long time ago.
 
 > One might even say that schools have never been essentially about individualized learning. It is true, of course, that groups do not learn; individuals do. But the idea of a school is that individuals must learn in a setting in which individual needs are subordinated to group interests. Unlike other media of mass communication, which celebrate individual response and are experienced in private, the classroom is intended to tame the ego, to connect the individual with others, to demonstrate the value and necessity of group cohesion.
 
 > I refer to the fact that those who advocate a “multicultural” curriculum, especially those who speak for an Afrocentric bias, understand better than most […] the need for a god to serve; they understand that the reason why students are demoralized, bored, and distracted is not that the teachers lack interesting methods and machinery but that both students and teachers lack a narrative to provide profoud meaning to their lessons. It does not go too far to say that the “multiculturalists” are the most active and dedicated education philosophers we have at the moment. They are not especially interested in methods or machinery and, generally, are not competent to speak on such matters. But they have a story to tell, and they believe their story can serve as a foundation to schooling. The trouble is that it is a terrible story, at least for public schools.
 
-This provides an interesting pespective on how the universities have found themselves embroiled in the culture wars. One of the reasons the wing of the progressive left focused on identity politics may have gotten such a strong foothold in educational institutions is that it describes one of the most compelling narratives available for education at the moment. 
+This provides an interesting pespective on how the universities have found themselves embroiled in the culture wars. One of the reasons why the wing of the progressive left focused on identity politics may have gotten such a strong foothold in educational institutions is that it describes one of the most compelling narratives available for education at the moment. 
 
-I wouldn’t be the [first](https://slatestarcodex.com/2019/07/08/gay-rites-are-civil-rites/) [one](https://areomagazine.com/2018/12/18/postmodern-religion-and-the-faith-of-social-justice/) to observe that progressive identity politics can have a quasy religious character to it. And I don’t necessarily mean that in a bad way. 
+I wouldn’t be the [first](https://slatestarcodex.com/2019/07/08/gay-rites-are-civil-rites/) [one](https://areomagazine.com/2018/12/18/postmodern-religion-and-the-faith-of-social-justice/) to observe that progressive identity politics can have a quasi religious character to it. And I don’t necessarily mean that in a bad way. 
 
 > But the point is that it is possible, by ignoring its transcendent ideals, to tell America’s story as a history of racism, inequity, and violence. Is this the story we wish to be the foundation of American public schooling?
 
@@ -114,4 +114,4 @@ As national stories go, America may have one of the most compelling ones. Howeve
 
 > We are the world makers, and the world weavers. That is what makes us smart, and dumb; moral and immoral; tolerant and bigoted. That is what makes us human.
 
-These are quite good. But I find all of them lacking in some way or another. The main issue I have with almost all of them is the vagueness. They offer some abstract ideals to live by, but none of them offers a truly concrete and inspiring purpose to education. At least to my eyes. 
+These are quite good. But I find all of them lacking in some way or another. The main issue I have with almost all of them is the vagueness. They offer some abstract ideals to live by, but none of them offers a truly concrete and inspiring purpose to education. At least in my eyes. 

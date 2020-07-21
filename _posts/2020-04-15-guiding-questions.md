@@ -10,7 +10,7 @@ comments: true
 
 ### What’s Worth Knowing?
 
-In [*Teaching as a Subversive Activity*](https://www.amazon.com/Teaching-Subversive-Activity-Neil-Postman/dp/0385290098) Neil Postman and Charles Weingartner suggest the following exercise:
+In [*Teaching as a Subversive Activity*](https://www.amazon.com/Teaching-Subversive-Activity-Neil-Postman/dp/0385290098), Neil Postman and Charles Weingartner suggest the following exercise:
 
 > Suppose all the syllabi and curricula and textbooks in the schools disappeared. Suppose all of the standardized tests – city-wide, state-wide and national – were lost. In other words, suppose that the most common material impeding innovation in the schools simply did not exist. Then suppose that you decided to turn this ‘catastrophe’ into an opportunity to increase the relevance of the schools. What would you do? <br/>
 We have a possibility for you to consider: suppose that you decide to have the entire ‘curriculum’ consist of questions. These questions would have to be worth seeking answers to not only from your point of view but, more importantly, from the point of view of the students. In order to get still closer to reality, add the requirement that the questions must help the students to develop and internalize concepts that will help them to survive in the rapidly changing world of the present and future. 
@@ -78,7 +78,7 @@ In the epilogue, he stresses the importance of purpose:
 > Without a purpose, the value to executives of any business theory would be limited. Even though theory is able to predict the possible outcomes of an important decision, on what basis would the executives be deciding among them to determine which is the best outcome? [...] <br/>
 In a similar way, to maximize the value of the advice in this book, you must have a purpose in your life.
 
-And proposes another question, crucial in finding a purpose worth commiting to:
+and proposes another question, crucial in finding a purpose worth committing to:
 
 > Who do I truly want to become?
 
