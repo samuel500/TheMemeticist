@@ -31,5 +31,7 @@ This 100 page document has recently made the rounds: [*Thiel on Progress and Sta
 
 [The End of the Future](https://www.nationalreview.com/2011/10/end-future-peter-thiel/)
 
+[Thinking too highly of higher ed](https://www.washingtonpost.com/opinions/peter-thiel-thinking-too-highly-of-higher-ed/2014/11/21/f6758fba-70d4-11e4-893f-86bd390a3340_story.html) ([No paywall](https://www.tampabay.com/opinion/thinking-too-highly-of-higher-education/2207911/))
+
 You can comment or DM me if I'm missing anything.
 
