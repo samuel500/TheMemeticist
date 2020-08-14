@@ -7,6 +7,8 @@ categories: education
 comments: true
 ---
 
+_Crossposted on [LessWrong](https://www.lesswrong.com/posts/JK4Ams4u4Lt3raPHS/the-case-for-education) and the [EA Forum](https://forum.effectivealtruism.org/posts/qJzKztKGDbe6iocmz/the-case-for-education)_
+
 I discovered the rationalist community two years ago. I had just dropped out of college, was looking for a software engineering job in London, and was in the process of getting what would become [The Case for Dropping Out of College](https://quillette.com/2018/11/23/the-case-for-dropping-out-of-college/?v=322b26af01d5) published.
 
 During my research for the piece, I had stumbled on [Against Tulip Subsidies](https://slatestarcodex.com/2015/06/06/against-tulip-subsidies/) on Slate Star Codex. I found the post brilliant, and the couple of other posts I then read seemed equally insightful. The site also listed meetups, and so I decided to go to one which was organized by the &#39;London Rationalish&#39; group.

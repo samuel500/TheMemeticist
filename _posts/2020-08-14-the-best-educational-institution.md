@@ -7,6 +7,8 @@ categories: education
 comments: true
 ---
 
+_Crossposted on [LessWrong](https://www.lesswrong.com/posts/fnxKyXjj4bHia6Gcd/the-best-educational-institution-in-the-world) and the [EA Forum](https://forum.effectivealtruism.org/posts/qJzKztKGDbe6iocmz/the-case-for-education)_
+
 _Note: I originally intended to publish this at the end of February. I decided to hold off until now because of COVID-19._
 
 What would happen to college dorms if all colleges disappeared? Imagine some crazy parallel Universe in which the US government decided to disband all institutions of higher learning: All professors and administrators get fired, all classes are canceled, nowhere to turn anymore to get a university degree, yet all student housing remains open. What happens next? What will this crowd of young adults do? Just a day earlier they were college students with assignments, schedules, exams… Just a day earlier, they were living under the watchful eye of campus security and residential assistants. Now, they are all slammed from their state of extended childhood straight into adulthood.
