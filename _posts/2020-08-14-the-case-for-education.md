@@ -129,7 +129,7 @@ So, concretely, what do I suggest should be done?
 
 One of the reasons I&#39;m frustrated with how little effort has been put into fixing the education system by those who understand why it is broken is that I believe the solution lies to a large extent in the for-profit sector.
 
-Alongside this post, I am publishing two others. In the first I describe my very positive experience self-studying ML at the EA Hotel. In the second, I describe my plan to start a for-profit project inspired by the EA Hotel, for people to study and do independent ML research.
+Alongside this post, I am publishing two others. In [the first](https://thememeticist.com/education/2020/08/14/the-best-educational-institution.html) I describe my very positive experience self-studying ML at the EA Hotel. In [the second](https://thememeticist.com/education/2020/08/14/room-and-board.html), I describe my plan to start a for-profit project inspired by the EA Hotel, for people to study and do independent ML research.
 
 This is because I believe that replacing the current institutions will require a two-pronged approach. First it will require _the creation of learning communities where people can go and find peer support and accountability._
 
