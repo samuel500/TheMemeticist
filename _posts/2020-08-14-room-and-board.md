@@ -7,7 +7,7 @@ categories: education
 comments: true
 ---
 
-[*Important context.*](https://thememeticist.com/education/2020/08/14/room-and-board.html)
+[*Important context.*](https://thememeticist.com/education/2020/08/14/the-best-educational-institution.html)
 
 I am currently planning to rent a large house in northern England, somewhere rents are affordable, for people to study or to research machine learning. ML seems to be an obvious initial choice. I believe that the model of getting a group of smart, somewhat self-motivated people under one roof to work on or study a particular topic, to give them some structure, peer support and accountability, and then to validate progress being made by means of comprehensive standardized exams, is one that could work for any subject.
 
